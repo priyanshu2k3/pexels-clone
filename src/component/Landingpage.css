@@ -1,0 +1,12 @@
+.btn-container{
+    display : flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    display: flex;
+    max-width: 100%;
+
+}
+.btn-container>*{
+    margin:10px;
+}
